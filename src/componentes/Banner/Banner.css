@@ -1,7 +1,13 @@
 .Banner {
     text-align: center;
+    background-color: #04012b;
+    padding: 15px;
+    max-width: 100%;
+    border-bottom: #686608 10px solid;
 }
 
-.Banner img {
-    max-width: 100%;
+.Banner h3 {
+    color: #fff;
+    font-size: 35px
 }
+
